@@ -13,7 +13,7 @@ The objective is not to build a sophisticated calculator, but to understand how 
 
 📺 **Watch the complete tutorial here:**
 
-https://youtube.com/watch?v=abc
+[YouTube Video](https://youtu.be/d6O0FgcMW38)
 
 ---
 
